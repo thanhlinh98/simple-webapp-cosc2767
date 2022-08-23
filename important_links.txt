@@ -1,8 +1,0 @@
-_jenkins
-/etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
-https://pkg.jenkins.io/redhat-stable/jenkins.io.key
-_maven
-https://dlcdn.apache.org/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.tar.gz
-_tomcat
-https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.65/bin/apache-tomcat-9.0.65.tar.gz
-
