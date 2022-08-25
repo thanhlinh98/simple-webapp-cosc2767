@@ -32,15 +32,15 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">Your name</span>
+      <span class="badge badge-primary">Your name: Nguyen Thanh Linh</span>
       <br>
-      <span class="badge badge-secondary">Your student ID (sID)</span>
+      <span class="badge badge-secondary">Your student ID (sID): s3635080</span>
       <br>
-      <span class="badge badge-success">Your Major (and Minor if possible)</span>
+      <span class="badge badge-success">Your Major (and Minor if possible): IT</span>
       <br>
-      <span class="badge badge-danger">Your Hobby</span>
+      <span class="badge badge-danger">Your Hobby: Playing Games and Watchinh Youtube Videos</span>
       <br>
-      <span class="badge badge-warning">Your Favouritate Programming Language</span>
+      <span class="badge badge-warning">Your Favouritate Programming Language: Java, Javascript</span>
       <!-- You only need to change these information, ends here! -->
       
 
